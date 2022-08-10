@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Algorithm programming",
+      "body": "Belajar looping dan selection"
+    },
+    {
+      "id": 2,
+      "title": "Bahasa Indonesia",
+      "body": "Belajar tata bahasa dan komunikasi dengan baik"
+    }
+  ]
+}
